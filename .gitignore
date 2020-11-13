@@ -6,3 +6,13 @@ crash.log
 
 # For built boxes
 *.box
+
+# Build Kits from CIS website
+buildkits/
+
+# Assessor Pro CLI
+#   Not allowed to distribute the CLI following the terms of usage
+#   Upon payment of a CIS SecureSuite Membership fee, Members are entitled to the following CIS SecureSuite membership benefits:
+#   Access to and use of the CIS configuration assessment tool (“CIS-CAT Pro”), including use of the following:
+#   CIS-CAT Pro Assessor, allowing Member to analyze and score the configuration of Member’s internal information technology systems and obtain a score between 1-100 for conformity against CIS Benchmarks including CIS Benchmark recommendations annotated with one of more of the CIS Controls and subcontrols; and
+tools/Assessor-CLI-v4.0.21/
